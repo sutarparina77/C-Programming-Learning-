@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-     float Rad = 0, Area = 0;
+     float Rad = 0.0, Area = 0.0;
      
      printf("\n Radius of Circle = ");
      scanf("%f",&Rad);
