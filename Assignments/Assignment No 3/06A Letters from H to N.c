@@ -8,7 +8,7 @@ int main()
   
   while(Letter <= 'N')
   {
-     printf("%c", Letter);
+     printf(" %c ", Letter);
      Letter++;
   }
   
