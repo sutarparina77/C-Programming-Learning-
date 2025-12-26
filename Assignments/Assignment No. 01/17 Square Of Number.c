@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-  float Num = 0, Sqr = 0;
+  float Num = 0.0, Sqr = 0.0;
  
   printf("\n Enter The Number");
   scanf("%f",&Num);
