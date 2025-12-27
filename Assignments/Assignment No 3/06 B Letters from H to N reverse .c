@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-  int Letter = 'N';
+  char Letter = 'N';
   
   printf("\n OUTPUT ==> \n");
   
