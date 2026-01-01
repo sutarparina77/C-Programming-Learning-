@@ -2,14 +2,14 @@
 #include<conio.h>
 int main()
 {
-  char Letter = 'W';
+  char ch = 'W';
   
   printf("\n OUTPUT ==> \n");
   
-  while(Letter >= 'E')
+  while(ch >= 'E')
   {
-     printf(" %c ", Letter);
-     Letter--;
+     printf(" %c ", ch);
+     ch--;
   }
   
   getch();
