@@ -5,7 +5,7 @@ int main()
   char ch ='\0';
   
   printf("\n Enter a Character : ");
-  scanf("%c",&ch);
+  ch = getche();
   
   if(ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U' || ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' )
 
