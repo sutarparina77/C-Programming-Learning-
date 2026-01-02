@@ -5,7 +5,7 @@ int main()
   char ch = '\0';
   
   printf("\n Enter a Character (toggle case): ");
-  scanf("%c",&ch);
+  ch = getche();
   
   if(ch >= 'A' && ch <= 'Z')
   {
