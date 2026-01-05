@@ -5,7 +5,9 @@ int main()
   char ch = '\0';
   
   printf("\n Enter a letter :");
-  scanf("%c",&ch);
+  ch = getche();
+  
+  printf("\n Output ==> \n\n");
   
   if(ch >= 'A' && ch <= 'Z')
   {
