@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-  int i = 0, j = 0, Cnt = 0;
+  int i = 0, j = 0;
   
   printf("\n Tables from 27 to 19 is : \n");
   
