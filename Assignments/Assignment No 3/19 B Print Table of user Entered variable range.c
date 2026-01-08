@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-  int i = 0, j = 0, Cnt = 0, sPt = 0, ePt =0;
+  int i = 0, j = 0, sPt = 0, ePt =0;
   
   printf("\n Enter Starting number:");
   scanf("%d",&sPt);
