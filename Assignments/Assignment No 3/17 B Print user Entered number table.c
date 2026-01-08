@@ -16,7 +16,7 @@ int main()
       {
         printf(" %3d ", i*j);
       }
-    printf(" \n ");
+      printf(" \n ");
   }
   
   getch();
