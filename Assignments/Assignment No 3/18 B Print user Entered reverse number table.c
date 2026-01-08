@@ -13,10 +13,10 @@ int main()
   for(i = 1; i <= 10; i++)
   {
       for(j = sPt; j >= ePt; j--)
-    {
-      printf(" %3d ", i*j);
-    }
-    printf("\n");
+      {
+         printf(" %3d ", i*j);
+      }
+      printf("\n");
   }
   
   getch();
