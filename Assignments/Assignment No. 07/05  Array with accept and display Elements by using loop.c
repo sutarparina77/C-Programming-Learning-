@@ -6,18 +6,18 @@ int main()
   
   printf("\n Enter all 7 Elements");
   
-  for(i = 1; i <= 7; i++)
+  for(i = 0; i < 7; i++)
   {
-    printf("\n Enter Element No %d : ", i);
+    printf("\n Enter Element No %d : ", i+1);
     scanf("%d",&Num[i]);
   }
   
   printf("\n Press Any key to see all 7 values \n");
   getch();
   
-  for(i = 1; i <= 7; i++)
+  for(i = 0; i < 7; i++)
   {
-    printf("\n Value of %d Element : %d", i, Num[i]);
+    printf("\n Value of %d Element : %d", i+1, Num[i]);
   }
   
   getch();
