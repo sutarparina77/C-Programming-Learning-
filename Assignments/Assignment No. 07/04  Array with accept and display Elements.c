@@ -4,7 +4,7 @@ int main()
 {
   int Num[7] = {0};
   
-  printf("\n Enter an 7 Elements");
+  printf("\n Enter an 7 Elements :");
   
   printf("\n Enter 1st Element :");
   scanf("%d",&Num[0]);
