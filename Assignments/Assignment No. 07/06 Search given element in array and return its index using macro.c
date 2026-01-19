@@ -26,9 +26,4 @@ int main()
  
   getch();
   return 0;
-}   printf("\n element %d found at index %d:", Bill[i], i);
-  }
- 
-  getch();
-  return 0;
-}
+}   
