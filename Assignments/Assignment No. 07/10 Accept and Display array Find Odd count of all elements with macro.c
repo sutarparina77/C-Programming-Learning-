@@ -9,10 +9,7 @@ int main()
   {
     printf("\n Enter Bill No %d:",i+1);
     scanf("%d",&Bill[i]);
-  }
-  
-  for(i = 0; i < Size; i++)
-  {
+    
     if(Bill[i] %2 == 1)
     {
       O_Cnt++;
