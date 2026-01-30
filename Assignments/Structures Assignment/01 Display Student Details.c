@@ -11,6 +11,7 @@ struct Student
 int main()
 {
   struct Student S1;
+  
   S1.RollNo = 21;
   strcpy(S1.Name,"Virat");
   S1.Marks = 80.70;
