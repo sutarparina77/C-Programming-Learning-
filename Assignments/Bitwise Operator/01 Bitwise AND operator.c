@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+
 int main()
 {
     int N1 = 0, N2 = 0, Res = 0;
@@ -17,3 +18,4 @@ int main()
     getch();
     return 0;
 }
+
