@@ -8,6 +8,7 @@ struct Student
     float Marks;
     char Address[20];
 };
+
 int main()
 {
     struct Student S1 = {}, S2 = {}, S3 = {};
