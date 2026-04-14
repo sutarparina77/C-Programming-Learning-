@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+
 int main()
 {
   int No = 0, ZrD_Cnt = 0, EvnD_Cnt = 0, OddD_Cnt = 0, Dig = 0, Temp = 0;
