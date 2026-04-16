@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+
 int main()
 {
   int No = 0, D_Sum = 0, Dig = 0, Temp = 0;
