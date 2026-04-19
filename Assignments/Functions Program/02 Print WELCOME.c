@@ -12,6 +12,7 @@ int main()
     printf("\n Back to main");
 
     getch();
+    
     return 0;
 }
 void Display_Message()
