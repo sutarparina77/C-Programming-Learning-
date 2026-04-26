@@ -8,7 +8,7 @@ int main()
     printf("\n Enter Row and Column Size: ");
     scanf("%d",&RC);
 
-    for(ch = 'A', i = 1; i <= RC; i++, ch++)
+    for(ch = 'A', i = 1; i <= RC; i++)
     {
         for(j = 1; j <= RC; j++)
         {
