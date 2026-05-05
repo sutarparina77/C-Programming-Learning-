@@ -2,6 +2,7 @@
 #include<conio.h>
 #include<stdlib.h>
 #define Size 5
+
 int main()
 {
     int i = 0, Bill[Size] = {}, Max_Bill = 0, Sec_Max_Bill = 0, flag = 0;
