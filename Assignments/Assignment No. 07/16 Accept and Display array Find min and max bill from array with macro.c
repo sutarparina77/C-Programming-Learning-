@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #define Size 7
+
 int main()
 {
   int Bill[Size] = {}, i = 0, Max_Bill = 0, Min_Bill = 0;
