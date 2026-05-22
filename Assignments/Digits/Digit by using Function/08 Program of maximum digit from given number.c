@@ -2,6 +2,7 @@
 #include<conio.h>
 
 int Max_Digit(int);
+
 int main()
 {
     int No = 0, Max_dig = 0;
