@@ -20,6 +20,7 @@ int main()
     getch();
     return 0;
 }
+
 int X_RaiseTo_Y(int Base, int Exp)
 {
     int Temp = 0, Res = 0;
